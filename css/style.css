@@ -1,6 +1,11 @@
 :root{
+
     --bg-primary: #fd0000;
     --text-primary: #fbff00;
+
+    --bg-primary: #0015ff;
+    --text-primary: #fff;
+
 }
 *{
     margin: 0px;
@@ -11,7 +16,12 @@
     width: 100vw;
     height: 100vh;
     background-color: var(--bg-primary);
+
     display: flex;
 
 }
+
+
+
+
 
